@@ -5,13 +5,16 @@ from math import *
 
 pygame.init()
 
+# Define window dimensions
 width = 700
 height = 600
 
+# Create the game window
 display = pygame.display.set_mode((width, height))
 pygame.display.set_caption("CopyAssignment - Balloon Shooter Game")
 clock = pygame.time.Clock()
 
+# Constants for game elements
 margin = 100
 lowerBound = 100
 
