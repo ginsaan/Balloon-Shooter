@@ -24,4 +24,4 @@ The objective of the game is to pop as many balloons as you can within the given
 
 1. Clone this repository to your local machine:
 
-git clone [https://github.com/g-/balloon-shooter.git](https://github.com/ginsaan/Balloon-Shooter.git)https://github.com/ginsaan/Balloon-Shooter.git
+git clone https://github.com/ginsaan/Balloon-Shooter.git
